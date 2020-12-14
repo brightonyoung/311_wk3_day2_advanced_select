@@ -39,10 +39,10 @@ We are going to run a couple SQL queries and put the answers in the "Query Respo
 ## Query Responses
 
 1. Sums
-  * AK: 1422
-  * CT: 999
-  * TX: 2145
-  * WY: 1271
+  * AK: total=6, sum=1422
+  * CT: total=5, sum=999
+  * TX: total=32, sum=2145
+  * WY: total=3, sum=1271
 
 2.
   * Area code: 973
